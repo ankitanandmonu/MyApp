@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Tip Percent"
+        android:key="pref_percent_category">
+    <CheckBoxPreference android:title="Remember Tip Percent"
+        android:defaultValue="false"
+        android:summary="Remembers the tip percent for the most recent calculation."
+        android:key="pref_forget_percent" />
+    <ListPreference     android:title="Default Tip Percent"
+        android:summary="Sets the default tip percent that's used if the tip percent is not remembered."
+        android:key="pref_default_percent"
+        android:dialogTitle="Percent"
+        android:entries="@array/default_percent"
+        android:entryValues="@array/default_percent_values"
+        android:defaultValue="1"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Rounding"
+        android:key="rounding_key">
+        <ListPreference
+            android:title="Rounding?"
+            android:key="pref_default_rounding"
+            android:defaultValue="1"
+            android:dialogTitle="Rounding"
+            android:entries="@array/rounding_key"
+            android:entryValues="@array/rounding_key_values"
+            android:summary="Sets the rounding option for the calculation."/>
+    </PreferenceCategory>
+        <!--android:entries="@array/listArray"
+        android:entryValues="@array/listValues"-->
+
+</PreferenceScreen>

@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="facebook_app_id">540963529400685</string>
+    <string name="drag_drop">Click on the image to drag and drop</string>
+    <string name="start_note">Start Notification</string>
+    <string name="cancel_note">Cancel Notification</string>
+    <string name="update_note">Update Notification</string>
+    <string name="Recording">Android Audio Recording Application</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="location">Location</string>
+    <string name="country">Country:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="weather">Weather</string>
+    <string name="aboutus">Hello I\'m Ankit. For more enquiry about the project pls send your query on my mail Id:"\n<u>ankitmonu.drupalchamp@gmail.com</u></string>
+
+    <string name="menu_settings">Settings</string>
+
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonPercent">%</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonSubtract">-</string>
+    <string name="buttonMultiply">*</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonToggleSign">+/-</string>
+    <string name="buttonDecimalPoint">.</string>
+    <string name="buttonEquals">=</string>
+    <string name="buttonClear">C</string>
+    <string name="buttonClearMemory">MC</string>
+    <string name="buttonAddToMemory">M+</string>
+    <string name="buttonSubtractFromMemory">M-</string>
+    <string name="buttonRecallMemory">MR</string>
+    <string name="buttonSquareRoot">√</string>
+    <string name="buttonSquared">x²</string>
+    <string name="buttonInvert">1/x</string>
+    <string name="buttonSine">sin</string>
+    <string name="buttonCosine">cos</string>
+    <string name="buttonTangent">tan</string>
+    <string name="buttonCot">cot</string>
+    <string name="buttonCosec">Cosec</string>
+    <string name="buttonSec">Sec</string>
+    <string name="buttonCubed">X^3</string>
+    <string name="title_activity_tip_calculator">TipCalculator</string>
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="bill_amount">Your Bill Amount</string>
+    <string name="tip_percent_label">Percent</string>
+    <string name="tip_percent">15%</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="tip_amount_label">Tip</string>
+    <string name="tip_amount">\u20B9 0.00</string>
+    <string name="total_amount_label">Total</string>
+    <string name="total_amount">\u20B9 0.00</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="split_array">
+        <item>Split the bill? - No</item>
+        <item>Split the bill? - 2 ways</item>
+        <item>Split the bill? - 3 ways</item>
+        <item>Split the bill? - 4 ways</item>
+        <item>Split the bill? - 5 ways</item>
+        <item>Split the bill? - 6 ways</item>
+    </string-array>
+    <string-array name="rounding_key">
+        <item>None</item>
+        <item>Tip</item>
+        <item>Total</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="rounding_key_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="default_percent">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+    </string-array>
+    <string-array name="default_percent_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="about">About</string>
+    <string name="next">Next</string>
+    <string name="title">Title : </string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">No Title</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="delete_menu_noteedit">Delete</string>
+</resources>
